@@ -1,6 +1,6 @@
 # Movie Search App with React
 
-###Quick start:
+### Quick start:
 
 npm install
 npm run build
