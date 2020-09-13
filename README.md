@@ -19,4 +19,4 @@ Run Webpack in watch-mode to continually compile the JavaScript as you work:
 
 #### Check this App: 
 
-<img src="img/Screenshot.png" width= "450">
+<img src="img/screenshot.png" width= "450">
